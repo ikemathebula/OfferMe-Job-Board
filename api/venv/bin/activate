@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/jjofem/Desktop/JOB-HUB/api/venv"
+VIRTUAL_ENV="/home/ike/OfferMe-Job-Board/api/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

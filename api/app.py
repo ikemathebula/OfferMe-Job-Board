@@ -447,7 +447,7 @@ def apply_job(job_id):
                 job_title = job_listing.title
 
                 msg = Message("New Job Application",
-                              sender="info@johnteacher.tech",
+                              sender="info@ikemathebula.tech",
                               recipients=[employer_email])
 
                 msg.body = f"Job Title: {job_title}\n\n" \
@@ -490,7 +490,7 @@ def apply_job(job_id):
                 job_title = job_listing.title
 
                 msg = Message("New Job Application",
-                            sender="info@johnteacher.tech",
+                            sender="info@ikemathebula.tech",
                             recipients=[employer_email])
 
                 msg.body = f"Job Title: {job_title}\n\n" \
@@ -533,7 +533,7 @@ def apply_job(job_id):
                 job_title = job_listing.title
 
                 msg = Message("New Job Application",
-                            sender="info@johnteacher.tech",
+                            sender="info@ikemathebula.tech",
                             recipients=[employer_email])
 
                 msg.body = f"Job Title: {job_title}\n\n" \

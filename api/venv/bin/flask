@@ -1,4 +1,4 @@
-#!/home/jjofem/Desktop/JOB-HUB/api/venv/bin/python3
+#!/home/ike/OfferMe-Job-Board/api/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
