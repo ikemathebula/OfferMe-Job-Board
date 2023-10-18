@@ -674,8 +674,8 @@ def send_feedback():
 
         # Create and send feedback email
         msg = Message("Feedback Submission",
-                      sender="info@johnteacher.tech",
-                      recipients=["ofemjohn@gmail.com"])  # Replace with the recipient's email address
+                      sender="info@ikemathebula.tech",
+                      recipients=["ikemathebula@gmail.com"])  # Replace with the recipient's email address
 
         msg.body = f"Feedback Type: {feedback_type}\n\n" \
                    f"Job Title: {job_title}\n" \
