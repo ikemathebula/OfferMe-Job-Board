@@ -7,16 +7,16 @@ const Footer = () => {
   return (
     <Box
       sx={{
-        backgroundColor: "#2E3B55",
+        backgroundColor: "#66b899",
         color: "white",
         padding: "20px 0",
         textAlign: "center",
       }}
     >
       <Container maxWidth="md">
-        <Typography variant="h6">JOB HUB</Typography>
+        <Typography variant="h6">OfferME-JOB-BOARD</Typography>
         <Typography variant="subtitle1">
-          RCCG SOW Copyright © 2023. All Rights Reserved
+          Linda&Ike Copyright © 2023. All Rights Reserved
         </Typography>
       </Container>
     </Box>

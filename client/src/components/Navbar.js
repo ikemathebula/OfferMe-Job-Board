@@ -82,7 +82,7 @@ const Navbar = () => {
   };
 
   return (
-    <AppBar position="static" sx={{ backgroundColor: '#2E3B55' }}>
+    <AppBar position="static" sx={{ backgroundColor: '#66b899' }}>
       <Container>
         <Toolbar disableGutters>
           <Grid container alignItems="center" justifyContent="space-between">
@@ -110,7 +110,7 @@ const Navbar = () => {
                     textDecoration: 'none',
                   }}
                 >
-                  JOB HUB
+                  OfferME-JOB-BOARD
                 </Typography>
               </Box>
             </Grid>
